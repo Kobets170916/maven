@@ -1,0 +1,6 @@
+mojos\FileLog.class
+mojos\MailSender$1.class
+mojos\UpdatedMailMojo.class
+mojos\DataBuildLogMojo.class
+mojos\GreetingMojo.class
+mojos\MailSender.class
